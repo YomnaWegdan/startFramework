@@ -16,7 +16,7 @@ export default function Navbar() {
         data-bs-theme="dark"
       >
         <div className="container">
-          <Link className="navbar-brand fs-3" to="/">
+          <Link className="navbar-brand fs-3" to="">
             START FRAMEWORK
           </Link>
           <button
